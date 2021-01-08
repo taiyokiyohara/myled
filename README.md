@@ -20,8 +20,10 @@
 <img src="https://user-images.githubusercontent.com/72371850/104026586-7ec5af00-5209-11eb-9e8c-f8dcd1c64ace.jpg" width="320px">
 ---
 # 実行
-``` $ git clone https://github.com/taiyokiyohara/myled.git
+``` bash
+$ git clone https://github.com/taiyokiyohara/myled.git
 $ cd myled
 $ make
 $ sudo insmod myled.ko
-$ sudo chmod 666 /dev/myled0 ```
+$ sudo chmod 666 /dev/myled0 
+```
