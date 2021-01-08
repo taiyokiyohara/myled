@@ -29,10 +29,15 @@ $ sudo insmod myled.ko
 $ sudo chmod 666 /dev/myled0 
 ```
 - 3分のタイマーをセット
+
 ` echo 3 > /dev/myled0 `
+
 - 5分のタイマーをセット
+
 ` echo 5 > /dev/myled0 `
+
 - 停止
+
 ` echo 0 > /dev/myled0 `
 ---
 # 動画
