@@ -18,7 +18,7 @@
 # 回路
 - プラス側をGPIO25番のピンに接続しています
 <img src="https://user-images.githubusercontent.com/72371850/104026586-7ec5af00-5209-11eb-9e8c-f8dcd1c64ace.jpg" width="320px">
-- 
+
 --- 
 # 実行方法
 ``` bash
