@@ -36,8 +36,7 @@ $ sudo chmod 666 /dev/myled0
 
 ` echo 5 > /dev/myled0 `
 
-- 停止
-
+- 停止  
 ` echo 0 > /dev/myled0 `
 ---
 # 動画
